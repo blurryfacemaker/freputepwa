@@ -1,0 +1,40 @@
+{
+  "name": "frepute",
+  "short_name": "frepute",
+  "start_url": "https://frepute.blogspot.com",
+  "display": "standalone",
+   "background_color": "#005af0",
+  "theme_color": "#005af0",
+  "description": "Blog Frepute - Jual parfum untuk pria dan wanita di Wilayah Kota Bandung",
+  "icons": [{
+    "src": "https://1.bp.blogspot.com/-sEB-K9M9OGA/YMtqG7AJUxI/AAAAAAAABpw/fK4rQyOdy30E8iXfRG_GKb7LsZLBnokGwCLcBGAsYHQ/s16/favicon-16x16.png",
+    "sizes": "16x16",
+    "type": "image/png",
+    "density": "0.75"
+  }, {
+    "src": "https://1.bp.blogspot.com/-ZlaIz3EmG6s/YMtp7DBwmOI/AAAAAAAABps/YAhGC6pu-hkVkfOaxekxMsfjYUo51eZ0wCLcBGAsYHQ/s48/favicon.ico",
+    "sizes": "48x48",
+    "type": "image/png",
+    "density": "1.0"
+  }, {
+    "src": "https://1.bp.blogspot.com/-DvhQMAz4JiU/YMtqRprJaaI/AAAAAAAABp4/BmcVA8ryJ4kD1vhRnlcHj2hEMKBGPO93wCLcBGAsYHQ/s32/favicon-32x32.png",
+    "sizes": "32x32",
+    "type": "image/png",
+    "density": "1.5"
+  }, {
+    "src": "https://1.bp.blogspot.com/-B86sPNn8vCg/YMtpvonKjsI/AAAAAAAABpo/cO_fwnz3-IszRG6ECWLIsOQ7oK0QpQmDQCLcBGAsYHQ/s180/apple-touch-icon.png",
+    "sizes": "180x180",
+    "type": "image/png",
+    "density": "3.0"
+  }, {
+    "src": "https://1.bp.blogspot.com/-TATkgSTI6ms/YMtpbM3j7bI/AAAAAAAABpg/1K7XXbEvoc4bdR8jdSjAFPOa-sYhAOHuACLcBGAsYHQ/s192/android-chrome-192x192.png",
+    "sizes": "192x192",
+    "type": "image/png",
+    "density": "4.0"
+  }, {
+    "src": "https://1.bp.blogspot.com/-OO7E2o_7K7w/YMtpGVxoLRI/AAAAAAAABpY/ieXbRPkYXjAHP_Qij_xIRzOFfmLoP_5dQCLcBGAsYHQ/s512/android-chrome-512x512.png",
+    "sizes": "512x512",
+    "type": "image/png",
+    "density": "5.0"
+  }]
+}
